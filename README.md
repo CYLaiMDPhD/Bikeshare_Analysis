@@ -13,10 +13,11 @@ To aid our client in her pitch to investors about starting a Bike share business
 ## Results
 
 **Data Source**
+https://s3.amazonaws.com/tripdata/index.html
+201908-citibike-tripdata.csv.zip
 
 
-
-**[Link](https://public.tableau.com/app/profile/cindy.lai7570/viz/Module14ChallengeUCBDataBootcamp/NYCAugust2019CitibikeAnalysis?publish=yes) to Tableau Story**
+**[Tableau - NYC August 2019 Citibike Analysis](https://public.tableau.com/app/profile/cindy.lai7570/viz/Module14ChallengeUCBDataBootcamp/NYCAugust2019CitibikeAnalysis?publish=yes)**
 
 
 Our analysis and visualizations can be found in the above Tableau Public published story ("NYC August 2019 Citibike Analysis").
