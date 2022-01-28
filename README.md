@@ -1,4 +1,4 @@
-# Bikesharing
+# Bikesharing Analysis
 
 *Note: This repository was generated to fulfill assignments (Module 14 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 1-28-22 for grading.*
 
@@ -16,8 +16,8 @@ To aid our client in her pitch to investors about starting a Bike share business
 
 
 
-**Link to Tableau Story**
-[Link](https://public.tableau.com/app/profile/cindy.lai7570/viz/Module14ChallengeUCBDataBootcamp/NYCAugust2019CitibikeAnalysis?publish=yes)
+**[Link](https://public.tableau.com/app/profile/cindy.lai7570/viz/Module14ChallengeUCBDataBootcamp/NYCAugust2019CitibikeAnalysis?publish=yes) to Tableau Story**
+
 
 Our analysis and visualizations can be found in the above Tableau Public published story ("NYC August 2019 Citibike Analysis").
 
