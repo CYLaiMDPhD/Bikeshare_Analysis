@@ -63,12 +63,14 @@ Bike checkout patterns different on weekends versus weekdays (story page 3). The
 
 
 **Figure 6: Bike Checkout Times by Gender**
+
 ![Fig6.png](/Images/Fig6.png)
 
 Again, there were no strong differences in checkout times between men and women (Figure 6 and story page 3, top right heatmap). 
 
 
 **Figure 7: Bike Checkout by Gender and Weekday**
+
 ![Fig7.png](/Images/Fig7.png)
 
 Those who listed "unknown" or did not provide an answer for their gender checked out bikes more on the weekends and tended to be single use customers. Most subsribers appeared to check out bikes on weekdays (Figure 7 and story page 3 lower right heatmap). 
