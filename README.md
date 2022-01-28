@@ -36,41 +36,57 @@ Most Citibike users were subscribers paying $15 per month. With over 1.9 million
 ### Bike Checkout Patterns
 Pages 2 and 3 of the Tableau story show different visualizations of bike checkout times and durations. 
 
+
 **Figure 2: Bike Checkout Durations (first 3 hours)**
 ![Fig2.png](/Images/Fig2.png)
+
 Most rides were under 30 minutes (Figure2 and story page 2, top left graph). 
+
 
 **Figure 3: Bike Checkout Durations by Gender**
 ![Fig3.png](/Images/Fig3.png)
+
 Gender did not appear to affect bike checkout durations (Figure 3 and story page 2, bottom left graph). 
 
+
 **Figure 4: Bike Checkout Times**
+
 ![Fig4.png](/Images/Fig4.png)
+
 The most popular checkout times were between 8 am and 8 pm, with heavier usage during morning and late afternoon rush hours (Figure 4 and story page 2, right graph). 
+
 
 **Figure 5: Bike Checkout Times by Weekday**
 ![Fig5.png](/Images/Fig5.png)
+
 Bike checkout patterns different on weekends versus weekdays (story page 3). The most popular times during weekends was between 11 am and 5 pm (Figure 5 and story page 3, left heatmap).
+
 
 **Figure 6: Bike Checkout Times by Gender**
 ![Fig6.png](/Images/Fig6.png)
+
 Again, there were no strong differences in checkout times between men and women (Figure 6 and story page 3, top right heatmap). 
+
 
 **Figure 7: Bike Checkout by Gender and Weekday**
 ![Fig7.png](/Images/Fig7.png)
+
 Those who listed "unknown" or did not provide an answer for their gender checked out bikes more on the weekends and tended to be single use customers. Most subsribers appeared to check out bikes on weekdays (Figure 7 and story page 3 lower right heatmap). 
 
 
 ### Popular Biking Locations
 Pages 4 through 6 of the Tableau story display maps of bike usage (checkout and return locations) with bubbles and colors reprensented the number of bikes logged at each location. 
 
+
 **Figure 8: Bike Checkout and Return Locations**
 ![Fig8.png](/Images/Fig8.png)
 Citibike usage was greatest in Manhattan (Figure 8 and story page 4). 
 
+
 **Figure 9: Bike Checkout and Return Locations for Subscribers**
 ![Fig9.png](/Images/Fig9.png)
 Most subscribers rode bikes through Manhattan, especially south of Central Park (Figure 9 and story page 5). 
+
 
 **Figure 9: Bike Checkout and Return Locations for Single Use Customers**
 ![Fig10.png](/Images/Fig10.png)
