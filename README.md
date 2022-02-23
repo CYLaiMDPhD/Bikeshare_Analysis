@@ -2,6 +2,9 @@
 
 *Note: This repository was created to fulfill assignments (Module 14 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
+*Module Exercises*
+- *Use of Tableau Public*
+
 
 ## Overview
 This report presents an analysis of CitiBike rider data from New York City for August 2019 using Tableau Public. 
@@ -29,7 +32,9 @@ Our analysis and visualizations can be found in the above Tableau Public publish
 The first page of the Tableau story displays simple aggregates of the total number of rides and breakdown of customers. 
 
 **Figure 1: Aggregate CitiBike User Data**
+
 ![Fig1.png](/Images/Fig1.png)
+
 Most Citibike users were subscribers paying $15 per month. With over 1.9 million subscribers, this would have generated a revenue of over $28 million that month for Citibike. Single time use customers booked 443,865 rides in the month of August. At a base rate of $3.50 per ride, this would have generated at least an additional $1.5 million. 
 
 
@@ -38,12 +43,15 @@ Pages 2 and 3 of the Tableau story show different visualizations of bike checkou
 
 
 **Figure 2: Bike Checkout Durations (first 3 hours)**
+
 ![Fig2.png](/Images/Fig2.png)
+
 
 Most rides were under 30 minutes (Figure2 and story page 2, top left graph). 
 
 
 **Figure 3: Bike Checkout Durations by Gender**
+
 ![Fig3.png](/Images/Fig3.png)
 
 Gender did not appear to affect bike checkout durations (Figure 3 and story page 2, bottom left graph). 
@@ -57,7 +65,9 @@ The most popular checkout times were between 8 am and 8 pm, with heavier usage d
 
 
 **Figure 5: Bike Checkout Times by Weekday**
+
 ![Fig5.png](/Images/Fig5.png)
+
 
 Bike checkout patterns different on weekends versus weekdays (story page 3). The most popular times during weekends was between 11 am and 5 pm (Figure 5 and story page 3, left heatmap).
 
@@ -81,17 +91,23 @@ Pages 4 through 6 of the Tableau story display maps of bike usage (checkout and 
 
 
 **Figure 8: Bike Checkout and Return Locations**
+
 ![Fig8.png](/Images/Fig8.png)
+
 Citibike usage was greatest in Manhattan (Figure 8 and story page 4). 
 
 
 **Figure 9: Bike Checkout and Return Locations for Subscribers**
+
 ![Fig9.png](/Images/Fig9.png)
+
 Most subscribers rode bikes through Manhattan, especially south of Central Park (Figure 9 and story page 5). 
 
 
 **Figure 10: Bike Checkout and Return Locations for Single Use Customers**
+
 ![Fig10.png](/Images/Fig10.png)
+
 Single use customers however, checked out and returned bikes at certain locations in Manhattan more frequently (Figure 10 and story page 6). This may reflect rides to and from popular tourist destinations, recreational areas, or other points of interest.  
 
 
