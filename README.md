@@ -31,6 +31,7 @@ Our analysis and visualizations can be found in the above Tableau Public publish
 ### Total Rides and Customers
 The first page of the Tableau story displays simple aggregates of the total number of rides and breakdown of customers. 
 
+
 **Figure 1: Aggregate CitiBike User Data**
 
 ![Fig1.png](/Images/Fig1.png)
@@ -38,8 +39,10 @@ The first page of the Tableau story displays simple aggregates of the total numb
 Most Citibike users were subscribers paying $15 per month. With over 1.9 million subscribers, this would have generated a revenue of over $28 million that month for Citibike. Single time use customers booked 443,865 rides in the month of August. At a base rate of $3.50 per ride, this would have generated at least an additional $1.5 million. 
 
 
+
 ### Bike Checkout Patterns
 Pages 2 and 3 of the Tableau story show different visualizations of bike checkout times and durations. 
+
 
 
 **Figure 2: Bike Checkout Durations (first 3 hours)**
@@ -50,6 +53,7 @@ Pages 2 and 3 of the Tableau story show different visualizations of bike checkou
 Most rides were under 30 minutes (Figure2 and story page 2, top left graph). 
 
 
+
 **Figure 3: Bike Checkout Durations by Gender**
 
 ![Fig3.png](/Images/Fig3.png)
@@ -57,11 +61,13 @@ Most rides were under 30 minutes (Figure2 and story page 2, top left graph).
 Gender did not appear to affect bike checkout durations (Figure 3 and story page 2, bottom left graph). 
 
 
+
 **Figure 4: Bike Checkout Times**
 
 ![Fig4.png](/Images/Fig4.png)
 
 The most popular checkout times were between 8 am and 8 pm, with heavier usage during morning and late afternoon rush hours (Figure 4 and story page 2, right graph). 
+
 
 
 **Figure 5: Bike Checkout Times by Weekday**
@@ -72,11 +78,13 @@ The most popular checkout times were between 8 am and 8 pm, with heavier usage d
 Bike checkout patterns different on weekends versus weekdays (story page 3). The most popular times during weekends was between 11 am and 5 pm (Figure 5 and story page 3, left heatmap).
 
 
+
 **Figure 6: Bike Checkout Times by Gender**
 
 ![Fig6.png](/Images/Fig6.png)
 
 Again, there were no strong differences in checkout times between men and women (Figure 6 and story page 3, top right heatmap). 
+
 
 
 **Figure 7: Bike Checkout by Gender and Weekday**
@@ -90,6 +98,7 @@ Those who listed "unknown" or did not provide an answer for their gender checked
 Pages 4 through 6 of the Tableau story display maps of bike usage (checkout and return locations) with bubbles and colors reprensented the number of bikes logged at each location. 
 
 
+
 **Figure 8: Bike Checkout and Return Locations**
 
 ![Fig8.png](/Images/Fig8.png)
@@ -97,11 +106,13 @@ Pages 4 through 6 of the Tableau story display maps of bike usage (checkout and 
 Citibike usage was greatest in Manhattan (Figure 8 and story page 4). 
 
 
+
 **Figure 9: Bike Checkout and Return Locations for Subscribers**
 
 ![Fig9.png](/Images/Fig9.png)
 
 Most subscribers rode bikes through Manhattan, especially south of Central Park (Figure 9 and story page 5). 
+
 
 
 **Figure 10: Bike Checkout and Return Locations for Single Use Customers**
