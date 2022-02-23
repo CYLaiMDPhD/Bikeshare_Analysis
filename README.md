@@ -1,22 +1,22 @@
-# Bikesharing Analysis
+# Bikeshare Analysis
 
-*Note: This repository was generated to fulfill assignments (Module 14 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 1-28-22 for grading.*
+*Note: This repository was created to fulfill assignments (Module 14 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
 
 ## Overview
 This report presents an analysis of CitiBike rider data from New York City for August 2019 using Tableau Public. 
 
-### Purpose
-To aid our client in her pitch to investors about starting a bicycle share business in Des Moines, we've analyzed historic data from CitiBike, which has operated successfully in New York City for the past several years. Data from August 2019 was chosen as ridership is likely to be highst in summer and 2019 was the last pre-pandemic year and thus more representative of typical ridership patterns. 
-
----
-## Results
-
-### Data Source:
+**Data Source:**
 https://s3.amazonaws.com/tripdata/index.html
 
 201908-citibike-tripdata.csv.zip
 
+
+### Purpose
+A fictional client wishes to establish a bike sharing business in Des Moine. To pitch the business to potential investors, she has asked us to analyze historic data from CitiBike, a bike share which has operated successfully in New York City for the past several years. Data from August 2019 was chosen as ridership is likely to be highest in summer and 2019 was the last pre-pandemic year and thus more representative of typical ridership patterns. 
+
+---
+## Results
 
 ### Visualizations:
 **[Tableau - NYC August 2019 Citibike Analysis](https://public.tableau.com/app/profile/cindy.lai7570/viz/Module14ChallengeUCBDataBootcamp/NYCAugust2019CitibikeAnalysis?publish=yes)**
@@ -90,7 +90,7 @@ Citibike usage was greatest in Manhattan (Figure 8 and story page 4).
 Most subscribers rode bikes through Manhattan, especially south of Central Park (Figure 9 and story page 5). 
 
 
-**Figure 9: Bike Checkout and Return Locations for Single Use Customers**
+**Figure 10: Bike Checkout and Return Locations for Single Use Customers**
 ![Fig10.png](/Images/Fig10.png)
 Single use customers however, checked out and returned bikes at certain locations in Manhattan more frequently (Figure 10 and story page 6). This may reflect rides to and from popular tourist destinations, recreational areas, or other points of interest.  
 
@@ -101,7 +101,7 @@ Single use customers however, checked out and returned bikes at certain location
 
 This preliminary analysis of Citibike data from New York City shows various aspects of its successful operation there. Over the month of August in 2019, Citibike logged over 2.3 million rides and generated close to $30 million in revenue. Most revenue came from regular subscribers. Ridership patterns differed between subscribers and one time use customers, likely reflecting purpose of use and residential status. Non-subcribers may be more likely to be tourists, who might be visiting tourist attractions on the weekends, while subscribers may be using Citibike for regular work and errands. 
 
-Additional analysis that could be preformed with this dataset include a breakdown of trip durations by subscribers versus one time customers. The current vizualizations for ridership during weekdays can be improved by also including a breakdown of subscribers versus non-subscribers (story page 3, left heatmap). For target advertising, analysis of ridership patterns by age can be performed (number of rides versus age, calculated by birthyear). This analysis can be further sub-divided by subscriber status and filtered by trip length for more insights. Finally, correlations and analysis should also be made to compare an contrast Des Moines and New York in terms of population, tourism, traffic patterns, city drivability, weather, and other factors which will influence a bike share business.
+An additional analysis that could be preformed with this dataset include a breakdown of trip durations by subscribers versus one time customers. The current visualizations for ridership during weekdays can be improved by also including a breakdown of subscribers versus non-subscribers (story page 3, left heatmap). For target advertising, analysis of ridership patterns by age can be performed (number of rides versus age, calculated by birth year). This analysis can be further sub-divided by subscriber status and filtered by trip length for more insights. Finally, other factors which could impact a bike share business should be compared and contrasted between New York and Des Moine. Such factors could include population, tourism numbers, traffic patterns, city drivability, weather, and other location or city dependent traits.
 
 
 
